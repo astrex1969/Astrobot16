@@ -1,0 +1,9 @@
+config.json
+node_modules
+build/
+.next/
+.env
+.DS_STORE
+src/db/data.js
+src/db/data.json
+src/db/backup.json
